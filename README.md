@@ -1,2 +1,3 @@
-## Just a random name, my friend suggest me to pic this org
+# E-commerce App
+## Based on React
 
